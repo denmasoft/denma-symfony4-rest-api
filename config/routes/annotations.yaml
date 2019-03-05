@@ -1,0 +1,6 @@
+controllers:
+    resource: ../../src/Controller/
+    type: annotation
+cartaCupo:
+    resource: ../../src/CartaCupoBundle/Controller/
+    type: annotation
